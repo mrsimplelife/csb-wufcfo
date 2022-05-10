@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://mrsimplelife.github.io/csb-wufcfo/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://mrsimplelife.github.io/csb-wufcfo/static/js/main.ce45dd3b.chunk.js",
+    "main.js.map": "https://mrsimplelife.github.io/csb-wufcfo/static/js/main.ce45dd3b.chunk.js.map",
+    "runtime-main.js": "https://mrsimplelife.github.io/csb-wufcfo/static/js/runtime-main.2935d796.js",
+    "runtime-main.js.map": "https://mrsimplelife.github.io/csb-wufcfo/static/js/runtime-main.2935d796.js.map",
+    "static/js/2.cc863786.chunk.js": "https://mrsimplelife.github.io/csb-wufcfo/static/js/2.cc863786.chunk.js",
+    "static/js/2.cc863786.chunk.js.map": "https://mrsimplelife.github.io/csb-wufcfo/static/js/2.cc863786.chunk.js.map",
+    "index.html": "https://mrsimplelife.github.io/csb-wufcfo/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://mrsimplelife.github.io/csb-wufcfo/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.cc863786.chunk.js.LICENSE.txt": "https://mrsimplelife.github.io/csb-wufcfo/static/js/2.cc863786.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2935d796.js",
+    "static/js/2.cc863786.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.ce45dd3b.chunk.js"
+  ]
+}
